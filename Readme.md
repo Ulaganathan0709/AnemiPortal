@@ -7,3 +7,5 @@ Welcome to the **Anime Portal**! Here, you can explore various Anime roles and d
 - **Role Exploration**: Dive into a comprehensive list of characters and their corresponding roles within the Anime.
 - **API Integration**: The portal seamlessly retrieves anime details using a specialized API endpoint, ensuring up-to-date and accurate information.
 
+## **Site URL** 
+[Anime Portal Live Site](https://animeportal.netlify.app/)
