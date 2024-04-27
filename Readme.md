@@ -8,4 +8,4 @@ Welcome to the **Anime Portal**! Here, you can explore various Anime roles and d
 - **API Integration**: The portal seamlessly retrieves anime details using a specialized API endpoint, ensuring up-to-date and accurate information.
 
 ## **Site URL** 
-[Anime Portal Live Site](https://animeportal.netlify.app/)
+[Anime Portal Live Site](https://anemiportal.netlify.app/)
